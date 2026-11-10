@@ -1,0 +1,6 @@
+{
+  "name": "Siam Voice AI",
+  "description": "Professional AI Voice Studio for Bangla Text-to-Speech, 64-district dialect synthesis, 10s voice cloning, audio editing, and speech transcription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
